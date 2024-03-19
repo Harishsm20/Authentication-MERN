@@ -3,7 +3,7 @@ This project implements a secure and robust authentication system using the MERN
 
 ## Technologies Used
 
-Frontend: React.js
-Backend: Express.js, Node.js
-Database: MongoDB
-Authentication: JSON Web Tokens (JWT)
+* Frontend: React.js
+* Backend: Express.js, Node.js
+* Database: MongoDB
+* Authentication: JSON Web Tokens (JWT)
